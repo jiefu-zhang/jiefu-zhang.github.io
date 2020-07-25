@@ -1,0 +1,58 @@
+= Jiefu Zhang
+[jiefu-zhang.github.io/ 张洁夫] ([jiefu.zhang@hotmail.com])
+
+Hi, I am Jiefu Zhang. Welcome to my personal website! If you would like to know more about me, please feel free to send me an email. You can also visit my [https://www.researchgate.net/profile/Jiefu_Zhang2/ ResearchGate] to know more about my researches.
+
+== Education
+=== University of Electronic Science and Technology of China (UESTC)
+2016-2020, Bachelor of Engineering in Automation
+- GPA: 89.12/100
+- Awarded "Outstanding Graduate of UESTC"
+- Bachelor thesis: [https://www.researchgate.net/publication/343150234_A_Reinforcement_Learning-based_Rehab-exoskeleton_Coordination_Control_Algorithm/ A Reinforcement Learning-based Rehab-exoskeleton Coordination Control Algorithm]
+- Selected courses: Robots-96\/100 \| Modern Control Theory-94\/100 \| Digital Signal Procsssing-95\/100
+
+== Skills
+
+- English: TOEFL: 108/120
+- Softwares: MATLAB & Simulink, Xilinx Vivado, SolidWorks, Cadence
+- Programming langiages: MATLAB, Python, C++, C, Verilog HDL, LaTex
+
+== Publications
+1. *J Zhang*, Z Peng, J Hu et.al, [https://www.sciencedirect.com/science/article/abs/pii/S092523122031095X?via%3Dihub/ Internal reinforcement adaptive dynamic programming for optimal containment control of unknown continuous-time multi-agent systems], in [https://www.journals.elsevier.com/neurocomputing/ /Neurocomputing/], 2020, 413: 85–95.
+
+2. Z Peng, *J Zhang*, J Hu et.al, [https://link.springer.com/article/10.1007%2Fs11432-019-9868-2/ Optimal containment control of continuous-time multi-agent systems with unknown disturbances using data-driven approach], in [https://www.springer.com/journal/11432/ /Science China Information Science/], 2020, 63(10): 209205.
+
+
+== Research Experience
+
+*- Center for Robotics*
+
+1. An Electromyography Based Intention Estimation Model for Assistive Exoskeletons
+- Supervised by Dr. Rui Huang
+- Explored intention estimation methods for assistive exoskeletons designed for paraplegia patients using MYO Armband.
+
+
+*- Center of Biocybernetics and Control Theory, UESTC (Sept. 2018 - Jul. 2019)*
+
+1. An Internal Reinforce Adaptive Dynamic Programming Algorithm for Multi-agent Robotic Systems
+- Feb. 2019 - Jul. 2019, supervised by Prof. Jiangping Hu
+- Proposed a novel optimal control algorithm for continuous-time multi-agent systems for the first time.
+- Mathematical analysis and simulations proves the efficiency of the proposed algorithm.
+- Contribution: proposed the algorithm, provided the convergence and stability analysis, finished the simulation and the first draft of [https://www.sciencedirect.com/science/article/abs/pii/S092523122031095X?via%3Dihub/ research paper].
+
+2. Containment Control for Autonomous Mobile Robotic Systems with Unknown Disturbances.
+- Sept. 2018 - Jan. 2019, supervised by Prof Jiangping Hu.
+- Proposed an optimal control algorithm for multi-agent robotic systems with unknown disturbances.
+- Analysis and simulations showed that the algorithm is efficient for continuous-time multi-agent robotic system.
+- Contribution: provided analysis and simulations, finished the first draft of [https://link.springer.com/article/10.1007%2Fs11432-019-9868-2/ research paper]
+
+== Honors
+
+- Scholarship of Oustanding Graduate (10%), Jun. 2020
+- Outstanding Graduate of UESTC (10%), Dec. 2019
+- Scholarship of Outstanding Students, 2018-2019 (15%), Sept. 2019
+- Jiuzhou Scholarship (1/320), Sept. 2018
+- Scholarship of Outstanding Students, 2017-2018 (15%), Sept. 2018
+- Scholarship of Outstanding Students, 2016-2017(15%), Sept. 2017
+
+
